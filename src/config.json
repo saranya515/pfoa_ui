@@ -1,0 +1,5 @@
+{
+  "apiEndpoint": "http://localhost:10000",
+  "goApiEndpoint": "http://localhost:10000",
+  "javaApiEndpoint": "http://192.168.0.118:8080/overview"
+}
